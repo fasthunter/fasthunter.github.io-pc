@@ -4,6 +4,8 @@ N/A
 ### Consoles
 Original Xbox One, PS4, and Switch
 ### Audio
-[Blue Snowball iCE](https://a.co/d/fT9EBxZ)
-[SteelSeries Arctis 1](https://a.co/d/4ZfVACr)
+[ul]
+<li> [Blue Snowball iCE](https://a.co/d/fT9EBxZ) </li>
+<li> [SteelSeries Arctis 1](https://a.co/d/4ZfVACr)</li>
+[/ul]
 ###### Uses Amazon Links, none are affiliate links
